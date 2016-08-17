@@ -1,0 +1,17 @@
+Package: regSmooth
+Title: Data Smoothing by Regularization
+Version: 0.01
+Date: 2016-02-14
+Author: Dominic Woolf
+Authors@R: person("Dominic", "Woolf", email = "d.woolf@cornell.edu", role = c("aut", "cre"))
+Maintainer: Dominic Woolf <d.woolf@cornell.edu>
+Description: This package provides functions to perform smoothing by Tikhonov regularization.
+  Automated optimization of the regularization parameter can optionally be conducted by
+  generalised cross validation.
+  Based on the method of Eilers (2003), and its implementation by Stickel (2010).
+References:
+  Eilers, P. (2003). A Perfect Smoother. Anal. chem. 75, 3631-3636.
+  Stickel, J. (2010). Data smoothing and numerical differentiation by a regularization method. Comp. chem. eng. 34.4 467-475.
+Depends: R (>= 3.1.1), Matrix
+License: GPL-3
+RoxygenNote: 5.0.1

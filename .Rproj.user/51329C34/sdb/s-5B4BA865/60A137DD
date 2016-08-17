@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: regSmooth\nTitle: Data Smoothing by Regularization\nVersion: 0.01\nDate: 2016-02-14\nAuthor: Dominic Woolf\nAuthors@R: person(\"Dominic\", \"Woolf\", email = \"d.woolf@cornell.edu\", role = c(\"aut\", \"cre\"))\nMaintainer: Dominic Woolf <d.woolf@cornell.edu>\nDescription: This package provides functions to perform smoothing by Tikhonov regularization.\n  Automated optimization of the regularization parameter can optionally be conducted by\n  generalised cross validation.\n  Based on the method of Eilers (2003), and its implementation by Stickel (2010).\nReferences:\n  Eilers, P. (2003). A Perfect Smoother. Anal. chem. 75, 3631-3636.\n  Stickel, J. (2010). Data smoothing and numerical differentiation by a regularization method. Comp. chem. eng. 34.4 467-475.\nDepends: R (>= 3.1.1), Matrix\nLicense: GPL-3\nRoxygenNote: 5.0.1",
+    "created" : 1459359861774.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3797584015",
+    "id" : "60A137DD",
+    "lastKnownWriteTime" : 1463587738,
+    "path" : "C:/Users/Dominic/Box Sync/scripts etc/regSmooth/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "dcf"
+}

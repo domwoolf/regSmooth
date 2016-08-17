@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1464020616714.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F027FB08",
+    "lastKnownWriteTime" : 27303570963497028,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3njcog6vwp",
+        "caption" : "benefits",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=benefits&cache_key=3njcog6vwp",
+        "displayedObservations" : 140,
+        "environment" : "",
+        "object" : "benefits",
+        "totalObservations" : 140,
+        "variables" : 3
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
